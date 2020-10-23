@@ -20,8 +20,12 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 1.3rem;
+  color: yellow;
+  border-style: solid;
+  font-family: times;
+  border-radius: 50rem;
+
 }
 
 .App-link {
